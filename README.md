@@ -4,9 +4,8 @@ Collection of Data Science projects
 
 ### Projects:
 
-**Machine Learning**
 
-***Predict survival of Titanic passengers***
+***Predicting renewable energy production based on regional weather***
 
 ***Handwritten digit recognition***
 
