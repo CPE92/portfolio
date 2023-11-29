@@ -7,7 +7,7 @@ Collection of Data Science projects
 
 ***Predicting renewable energy production based on regional weather***
 
-***Handwritten digit recognition***
+***Classification of distaster tweets***
 
 ***Ovarian cancer subtype classification***
 
