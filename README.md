@@ -1,4 +1,3 @@
-***
 ## Projects:
 ***[Predict generation of renewable energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data.
