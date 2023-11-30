@@ -1,7 +1,7 @@
 # Data Science Portfolio
 Collection of Data Science projects
 
-### Projects:
+# Projects:
 ***[Predicting renewable energy production based on regional weather](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 
 ***[Ovarian cancer subtype classification](https://github.com/cliedl/portfolio/tree/main/Projects/Ovarian_cancer_classification)***
