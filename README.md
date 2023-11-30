@@ -1,4 +1,4 @@
-# Projects:
+## Projects:
 ***[Predict generation of renewable energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data
 - Predict renewable energy generation using regression techniques and neural networks
@@ -10,13 +10,22 @@
 ***Classification of distaster tweets***
 
 
-# About me
+## About me
+
 ### Skills:
 - Programming: Python, git, MATLAB, C++
 - Data visualization: matplotlib, seaborn, Inkscape, Adobe Illustrator
 - Data Science: NumPy, SciPy, pandas, SQL, Excel
 - Machine Learning: scikit-learn, PyTorch, Keras, MLflow
 - Languages: German (native), English (fluent), Spanish (fluent)
+
+### Courses and Seminars:
+- Introduction to MLflow, Datacamp (2023)
+- Supervised Learning with scikit-learn, Datacamp (2023)
+- Unsupervised Learning in Python, Datacamp (2023)
+- Deep Learning with PyTorch, Datacamp (2023)
+- Introduction to SQL, Datacamp (2023)
+- Machine Learning for Physicists, University of Erlangen (2023)
   
 ### Experience:
 #### Scientific Staff @ Humboldt Universtiy of Berlin (2018-2023)
