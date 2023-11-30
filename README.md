@@ -1,4 +1,4 @@
-# Projects:
+# Projects
 ***[Predict generation of renewable energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data.
 - Predict renewable energy generation using regression techniques and neural networks.
@@ -11,15 +11,15 @@
 - Discerning real from fake tweets about disasters using transformers (BERT).
 
 ***
-# About me:
-### Skills:
+# About me
+### Skills
 - Programming: Python, git, MATLAB, C++
 - Data visualization: matplotlib, seaborn, Inkscape, Adobe Illustrator
 - Data Science: NumPy, SciPy, pandas, SQL, Excel
 - Machine Learning: scikit-learn, PyTorch, Keras, MLflow
 - Languages: German (native), English (fluent), Spanish (fluent)
 
-### Courses and Seminars:
+### Courses and Seminars
 - Introduction to MLflow, Datacamp (2023)
 - Supervised Learning with scikit-learn, Datacamp (2023)
 - Unsupervised Learning in Python, Datacamp (2023)
@@ -27,7 +27,7 @@
 - Introduction to SQL, Datacamp (2023)
 - Machine Learning for Physicists, University of Erlangen (2023)
   
-### Experience:
+### Experience
 #### Scientific Staff - Humboldt Universtiy of Berlin (2018-2023)
 - Built data architecture and data pipelines to process and analyze TB-sized datasets of time-series data, images, spectra, and sensor signals in Python.
 - Wrote Python code to visualize scientific data.
@@ -37,7 +37,7 @@
 - Data analysis in Python and research at the interface between physics and quantum chemistry.
 - Design and numerical simulation of optical cavities for frequency stabilization of an optical clock laser.
 
-### Education: 
+### Education
 PhD in Physics @ Humboldt University of Berlin (2023)
 
 
