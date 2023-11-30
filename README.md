@@ -38,9 +38,9 @@
 - Design and numerical simulation of optical cavities for frequency stabilization of an optical clock laser.
 
 ### Education
-PhD in Physics at Humboldt University of Berlin (2023)
-
-[Dissertation](https://edoc.hu-berlin.de/handle/18452/27556) on collective light emission by atoms coupled to a nanophotonic environment.
+PhD in Physics at Humboldt University of Berlin (2023):
+- [Dissertation](https://edoc.hu-berlin.de/handle/18452/27556) on collective light emission by atoms coupled to a nanophotonic environment.
+- [Lise Meitner Award](https://www.physik.hu-berlin.de/de/institut/fdp/lise-meitner-preis/liste-der-preistraeger/liste-der-lise-meitner-preistraeger) for the best dissertation of the year
 
 
 
