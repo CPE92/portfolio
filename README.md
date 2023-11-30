@@ -2,8 +2,10 @@
 Collection of Data Science projects
 
 ### Projects:
-***[Predicting renewable energy production based on regional weather]([url](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather))***
+***[Predicting renewable energy production based on regional weather](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
+
 ***Ovarian cancer subtype classification***
+
 ***Classification of distaster tweets***
 
 
