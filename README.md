@@ -10,9 +10,7 @@
 
 ***Classification of distaster tweets***
 
-
-# About me
-
+# About me:
 ### Skills:
 - Programming: Python, git, MATLAB, C++
 - Data visualization: matplotlib, seaborn, Inkscape, Adobe Illustrator
