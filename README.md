@@ -31,7 +31,7 @@
 #### Scientific Staff - Humboldt Universtiy of Berlin (2018-2023)
 - Built data architecture and data pipelines to process and analyze TB-sized datasets of time-series data, images, spectra, and sensor signals in Python.
 - Wrote Python code to visualize scientific data.
-- Coordinated and cooperated with international teams on several projects, authored 7 scientific publications in the field of quantum optics.
+- Coordinated and cooperated with international teams on several projects, authored [7 scientific publications](https://scholar.google.com/citations?user=b0k-Uh0AAAAJ&hl=de) in the field of quantum optics.
   
 #### Visiting Research Scholar - Columbia University in the City of New York (2017-2018)
 - Data analysis in Python and research at the interface between physics and quantum chemistry.
