@@ -39,6 +39,7 @@
 
 ### Education
 PhD in Physics at Humboldt University of Berlin (2023)
+
 [Dissertation](https://edoc.hu-berlin.de/handle/18452/27556) on collective light emission by atoms coupled to a nanophotonic environment.
 
 
