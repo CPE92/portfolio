@@ -1,4 +1,4 @@
-## Projects:
+# Projects:
 
 ***[Predict generation of renewable energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data
@@ -11,7 +11,7 @@
 ***Classification of distaster tweets***
 
 
-## About me
+# About me
 
 ### Skills:
 - Programming: Python, git, MATLAB, C++
