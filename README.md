@@ -1,5 +1,5 @@
 # Projects:
-
+***
 ***[Predict generation of renewable energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data.
 - Predict renewable energy generation using regression techniques and neural networks.
@@ -12,6 +12,7 @@
 - Discerning real from fake tweets about disasters using transformers (BERT).
 
 # About me:
+***
 ### Skills:
 - Programming: Python, git, MATLAB, C++
 - Data visualization: matplotlib, seaborn, Inkscape, Adobe Illustrator
