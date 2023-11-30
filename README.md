@@ -38,7 +38,8 @@
 - Design and numerical simulation of optical cavities for frequency stabilization of an optical clock laser.
 
 ### Education
-PhD in Physics @ Humboldt University of Berlin (2023)
+PhD in Physics at Humboldt University of Berlin (2023)
+[Dissertation](https://edoc.hu-berlin.de/handle/18452/27556) on collective light emission by atoms coupled to a nanophotonic environment.
 
 
 
