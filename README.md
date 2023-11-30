@@ -1,8 +1,7 @@
-# Data Science Portfolio
-Collection of Data Science projects
-
 # Projects:
-***[Predicting renewable energy production based on regional weather](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
+***Predict generation of renewable energy in Germany using local weather data
+[Link to the code](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
+- Web scraping of local weather data and energy sector data
 
 ***[Ovarian cancer subtype classification](https://github.com/cliedl/portfolio/tree/main/Projects/Ovarian_cancer_classification)***
 
