@@ -1,9 +1,11 @@
 # Projects:
-***Predict generation of renewable energy in Germany using local weather data
-[Link to the code](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
+***[Predict generation of renewable energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data
+- Predict renewable energy generation using regression techniques and neural networks
 
 ***[Ovarian cancer subtype classification](https://github.com/cliedl/portfolio/tree/main/Projects/Ovarian_cancer_classification)***
+- Multiprocessing of images from a ~700 GB dataset
+- Predict ovarian cancer subtype based on preprocessed microscopy images of tissue samples using convolutional neural networks.
 
 ***Classification of distaster tweets***
 
