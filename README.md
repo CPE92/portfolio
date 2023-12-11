@@ -1,7 +1,7 @@
 # Projects
 ***[Predict Generation of Renewable Energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data.
-- Predict renewable energy generation using regression techniques (XGBoost, RandomForestRegressor)
+- Predict renewable energy generation using regression techniques (SVM, XGBoost, Random forest regressors)
 
 ***[Ovarian Cancer Subtype Classification](https://github.com/cliedl/portfolio/tree/main/Projects/Ovarian_cancer_classification)***
 - Multiprocessing of images from a ~700 GB dataset
