@@ -1,4 +1,5 @@
 # Projects
+![Alt Text](Projects/Bike sharing demand forecast/test.gif)
 ***[Predict Generation of Renewable Energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data.
 - Predict renewable energy generation using regression techniques (SVM, XGBoost, Random forest regressors)
