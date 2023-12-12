@@ -4,7 +4,7 @@
 - Predict daily demand for each rental station using a Gradient Boosting Regressor
 - The gif below shows heatmaps of the predicted (left) and actual (right) bike sharing demand in December 2022.
 
-<img src="Projects/Bike sharing demand forecast/test.gif" width="40" height="40" />
+<img src="Projects/Bike sharing demand forecast/test.gif" width="200" height="200" />
 
 ***[Predict Generation of Renewable Energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data.
