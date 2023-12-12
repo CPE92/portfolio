@@ -4,6 +4,7 @@
 - Predict daily demand for each rental station using a Gradient Boosting Regressor
 - The gif below shows heatmaps of the predicted (left) and actual (right) bike sharing demand in December 2022.
 ![Alt Text](Projects/Bike sharing demand forecast/test.gif)
+
 ***[Predict Generation of Renewable Energy in Germany](https://github.com/cliedl/portfolio/tree/main/Projects/Renewable_energy_weather)***
 - Web scraping of local weather data and energy sector data.
 - Predict renewable energy generation using regression techniques (SVM, XGBoost, Random forest regressors)
