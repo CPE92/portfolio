@@ -10,7 +10,7 @@
 - Web scraping of local weather data and energy sector data.
 - Predict renewable energy generation using regression techniques (SVM, XGBoost, Random forest regressors).
   
-<img src="Projects/Renewable_energy_weather/hourly_predictions_wind_XGBoost.png" width="400" margin="0"/>
+<img src="Projects/Renewable_energy_weather/hourly_predictions_wind_XGBoost.png" width="600" margin="0"/>
 
 ***[Ovarian Cancer Subtype Classification](https://github.com/cliedl/portfolio/tree/main/Projects/Ovarian_cancer_classification)***
 - Multiprocessing of images from a ~700 GB dataset.
